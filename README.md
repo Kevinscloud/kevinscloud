@@ -21,5 +21,8 @@ I learned alot of information and fundamentals from this course like
 * System administration: Learn how to manage and secure operating systems 
 * Incident response: Learn how to identify, analyze, and respond to cybersecurity threats 
 
-## Projects/Labs
+## Projects
 
+Throughout the course I completed many projects that I will categorize in "folders"
+
+Folder 1 : Conduct a security audit 
